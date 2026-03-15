@@ -72,7 +72,7 @@ Microsoft Excel
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/82988898d2e42eb7b7212a31d4126fce26d06bc4/Profit%20%26%20Loss%20Report%20for%20Market_page-0001.jpg)
 
 
-## Project Workflow
+## Project Workflow:
 1. Data Cleaning
 
 - Checked for missing values and duplicates.
@@ -101,7 +101,7 @@ Created Excel reports to track:
 - Cost structure
 - Customer performance
 
-## Key Insights
+## Key Insights:
 
 - The company’s sales grew strongly from 2019 to 2021, showing good business growth.
 - Markets like India and USA contributed the highest revenue for the company.
