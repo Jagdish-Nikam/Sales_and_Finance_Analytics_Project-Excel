@@ -19,6 +19,17 @@ In this project, my responsibilities was:
 - Generating insights to support business decision-making. 
 
 
+Tools & Techniques Used
+Tools:
+Microsoft Excel
+
+Techniques:
+- Pivot Tables for data summarization
+- Lookup functions (VLOOKUP, XLOOKUP)
+- Conditional Formatting for pattern detection
+- Calculated columns for profit metrics
+- Charts and visual reports for better insights
+
 ## 1.Report : Market Performance Vs Target
 
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/f3123867ddfe56481dae26c735bad95d7029c048/market%20performance%20report_page-0001.jpg)
