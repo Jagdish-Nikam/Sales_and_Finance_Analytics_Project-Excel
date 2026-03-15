@@ -67,6 +67,11 @@ Microsoft Excel
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/881fb3b550b9e2da8ca6c788fbcf332317f0aed7/Profit%20%26%20Loss%20Report%20by%20Quarters_page-0001.jpg)
 
 
+## 7.Report: P & L For Market
+
+![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/82988898d2e42eb7b7212a31d4126fce26d06bc4/Profit%20%26%20Loss%20Report%20for%20Market_page-0001.jpg)
+
+
 ## Project Workflow
 1. Data Cleaning
 
@@ -83,7 +88,6 @@ Microsoft Excel
 3. Exploratory Data Analysis
 
 Analyzed:
-
 - Sales growth across years
 - Customer purchasing behavior
 - Product performance
@@ -97,9 +101,13 @@ Created Excel reports to track:
 - Cost structure
 - Customer performance
 
+## Key Insights
+- The company’s revenue increased significantly from 2019 to 2021, showing strong expansion in sales across multiple markets.
+- A few key markets such as India and the USA generated a large portion of total sales, making them the most important regions for business growth.
+- A small group of customers contributed a significant share of the overall revenue, highlighting the importance of maintaining strong relationships with top clients.
+- Sales were higher during the final quarter of the year, indicating seasonal demand that the company can use for better planning and inventory management.
 
-## 7.Report: P & L For Market
 
-![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/82988898d2e42eb7b7212a31d4126fce26d06bc4/Profit%20%26%20Loss%20Report%20for%20Market_page-0001.jpg)
+
 
 
